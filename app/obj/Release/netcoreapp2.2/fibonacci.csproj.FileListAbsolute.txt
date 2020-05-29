@@ -1,0 +1,11 @@
+/home/itadmin/git/docker_dotnet/app/bin/Release/netcoreapp2.2/fibonacci.deps.json
+/home/itadmin/git/docker_dotnet/app/bin/Release/netcoreapp2.2/fibonacci.runtimeconfig.json
+/home/itadmin/git/docker_dotnet/app/bin/Release/netcoreapp2.2/fibonacci.runtimeconfig.dev.json
+/home/itadmin/git/docker_dotnet/app/bin/Release/netcoreapp2.2/fibonacci.dll
+/home/itadmin/git/docker_dotnet/app/bin/Release/netcoreapp2.2/fibonacci.pdb
+/home/itadmin/git/docker_dotnet/app/obj/Release/netcoreapp2.2/fibonacci.csprojAssemblyReference.cache
+/home/itadmin/git/docker_dotnet/app/obj/Release/netcoreapp2.2/fibonacci.csproj.CoreCompileInputs.cache
+/home/itadmin/git/docker_dotnet/app/obj/Release/netcoreapp2.2/fibonacci.AssemblyInfoInputs.cache
+/home/itadmin/git/docker_dotnet/app/obj/Release/netcoreapp2.2/fibonacci.AssemblyInfo.cs
+/home/itadmin/git/docker_dotnet/app/obj/Release/netcoreapp2.2/fibonacci.dll
+/home/itadmin/git/docker_dotnet/app/obj/Release/netcoreapp2.2/fibonacci.pdb
