@@ -11,7 +11,7 @@ dotnet core 2.2
 Usage
 ```bash
 dotnet run
-dotnet publish -C Release
+dotnet publish -c Release
 
 ```
 Containerization
