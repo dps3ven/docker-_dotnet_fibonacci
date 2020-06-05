@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/itadmin/git/docker_dotnet/app/fibonacci.csproj",
+      "projectUniqueName": "/home/itadmin/git/dotnet_fibonacci/app/fibonacci.csproj",
       "projectName": "fibonacci",
-      "projectPath": "/home/itadmin/git/docker_dotnet/app/fibonacci.csproj",
+      "projectPath": "/home/itadmin/git/dotnet_fibonacci/app/fibonacci.csproj",
       "packagesPath": "/home/itadmin/.nuget/packages/",
-      "outputPath": "/home/itadmin/git/docker_dotnet/app/obj/",
+      "outputPath": "/home/itadmin/git/dotnet_fibonacci/app/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
